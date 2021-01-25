@@ -1,4 +1,4 @@
-# Mushrooms need a high humidity environment
+# Home-grown mushrooms need a high humidity environment
 
 I tried growing [oyster mushrooms 🍄](https://beyondcoffeeshop.dk/shop/6-alle-produkter/64-gro-saet/) at home, but they suffered from:
 
